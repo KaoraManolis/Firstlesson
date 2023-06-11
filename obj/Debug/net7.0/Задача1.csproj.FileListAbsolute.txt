@@ -1,0 +1,15 @@
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/bin/Debug/net7.0/Задача1
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/bin/Debug/net7.0/Задача1.deps.json
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/bin/Debug/net7.0/Задача1.runtimeconfig.json
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/bin/Debug/net7.0/Задача1.dll
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/bin/Debug/net7.0/Задача1.pdb
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.csproj.AssemblyReference.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.AssemblyInfoInputs.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.AssemblyInfo.cs
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.csproj.CoreCompileInputs.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.dll
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/refint/Задача1.dll
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.pdb
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/Задача1.genruntimeconfig.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача1/obj/Debug/net7.0/ref/Задача1.dll
