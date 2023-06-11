@@ -1,0 +1,15 @@
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/bin/Debug/net7.0/Задача 2 Сравнение двух чисел
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/bin/Debug/net7.0/Задача 2 Сравнение двух чисел.deps.json
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/bin/Debug/net7.0/Задача 2 Сравнение двух чисел.runtimeconfig.json
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/bin/Debug/net7.0/Задача 2 Сравнение двух чисел.dll
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/bin/Debug/net7.0/Задача 2 Сравнение двух чисел.pdb
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.csproj.AssemblyReference.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.AssemblyInfoInputs.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.AssemblyInfo.cs
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.csproj.CoreCompileInputs.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.dll
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/refint/Задача 2 Сравнение двух чисел.dll
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.pdb
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/Задача 2 Сравнение двух чисел.genruntimeconfig.cache
+/Users/kaora/Desktop/Seminar1 domashka/Задача 2 Сравнение двух чисел/obj/Debug/net7.0/ref/Задача 2 Сравнение двух чисел.dll
